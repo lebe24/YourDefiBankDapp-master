@@ -12,7 +12,7 @@
     <img alt="DefiBank: Landing" src="public/assets/LandingPage.png" />
 </a>
 
-### ✨ [Demo](https://defibank.vercel.app/)
+### ✨ [Demo](https://4lx6r1.sse.codesandbox.io/)
 
 ## Install
 
