@@ -41,4 +41,3 @@ npm run dev
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by 
